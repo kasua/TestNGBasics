@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2019-05-30T23:46:42Z" finished-at="2019-05-30T23:46:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2019-05-30T23:46:42Z" finished-at="2019-05-30T23:46:42Z">
+      <class name="com.class02.DisablingTestCases">
+        <test-method status="PASS" signature="FinalTest()[pri:0, instance:com.class02.DisablingTestCases@5d5eef3d]" name="FinalTest" duration-ms="6" started-at="2019-05-30T23:46:42Z" finished-at="2019-05-30T23:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalTest -->
+        <test-method status="PASS" signature="SecondTest()[pri:1, instance:com.class02.DisablingTestCases@5d5eef3d]" name="SecondTest" duration-ms="1" started-at="2019-05-30T23:46:42Z" finished-at="2019-05-30T23:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="FirstTest()[pri:2, instance:com.class02.DisablingTestCases@5d5eef3d]" name="FirstTest" duration-ms="1" started-at="2019-05-30T23:46:42Z" finished-at="2019-05-30T23:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+      </class> <!-- com.class02.DisablingTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
